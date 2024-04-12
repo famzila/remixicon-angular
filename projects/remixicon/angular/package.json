@@ -1,0 +1,28 @@
+{
+  "name": "@remixicon/angular",
+  "version": "0.0.1",
+  "author": {
+    "name": "Fatima AMZIL",
+    "email": "famzil.contact@gmail.com",
+    "url": "https://fatimaamzil.com"
+  },
+  "description": "Remixicon Angular component to use remixicons lib in Angular apps",
+  "keywords": [
+    "angular",
+    "icons",
+    "remixicon"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/famzila/XXX/issues"
+  },
+  "homepage": "https://github.com/famzila/XXX/",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}

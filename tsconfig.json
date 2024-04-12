@@ -2,6 +2,14 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@remixicon/angular": [
+        "./dist/remixicon/angular"
+      ],
+      "showcase": [
+        "./dist/showcase"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
